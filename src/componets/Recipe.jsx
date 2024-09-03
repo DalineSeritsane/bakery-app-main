@@ -1,2 +1,14 @@
 import React from 'react';
-import'../styles/Recipe.scss';
+import BananaCream from "../Images/BananaCream.jpg";
+import BlueBerryBread from "../Images/Blueberry-Bread.jpg";
+import CheeseBread from "../Images/Cheese-bread.webp";
+import CherryDelight from "../Images/Cherry-Delight.jpg";
+import ChocoCake from "../Images/choc-cake.jpg";
+import CinnamonBread from "../Images/cinnamon-swirl-bread.webp";
+import CreamyDessert from "../Images/creamy-dessert.jpg";
+import DarkChocoCake from "../Images/dark-choc-cake.jpg";
+import FlowerCake from "../Images/flower-cake.jpg";
+import FruitCake from "../Images/fruit-cake.jpg";
+import GarlicBread from "../Images/garlic-bread-.jpg";
+import MixedBerries from "../Images/mixed-berries-cake.jpg";
+import SummerDessert from "../Images/summer-desserts.jpg";
