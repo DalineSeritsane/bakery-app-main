@@ -1,6 +1,6 @@
 import React from "react";
 
-const Contact = () => {
+function Contact(){
     return (
         <div className="contact-page-wrapper">
             <div className="contact-form-container">

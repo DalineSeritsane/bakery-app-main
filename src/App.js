@@ -7,7 +7,7 @@ import Home from "./components/Home";
 import Footer from "./components/Footer";
 import NavBar from "./components/Navbar";
 import Contact from "./components/Contact";
-import Ingredients from "./components/Ingredients";
+
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
             <Route path="Recipe" element={<Recipe />} />
             <Route path="About" element={<AboutPage />} />
             <Route path="Contact" element={<Contact />} />
-            <Route path="Ingredients" element={<Ingredients />} />
+          
           </Route>
         </Routes>
       </div>

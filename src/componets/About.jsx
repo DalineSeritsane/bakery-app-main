@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "./Navbar";
-import BerryYogurt from "../Images/BerryYogurt.jpg";
+import OreoPots from "../Images/oreo-pots.jpg";
 
-const About = () => {
+function About() {
     return (
         <>
             <Navbar />
             <div className="about-section-image-container">
-                <img src={BerryYogurt} alt="Berry Yogurt" />
+                <img src={OreoPots} alt="Oreo Pots" />
             </div>
             <div className="about-section-text-container">
                 <p className="primary-subheading">About</p>
