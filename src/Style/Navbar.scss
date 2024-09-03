@@ -1,0 +1,57 @@
+/* NavBar.css */
+.navbar {
+    background-color: #f8e1d4; /* Light bakery color */
+    padding: 1rem;
+    border-bottom: 2px solid #d4a5a5; /* Border color matching the theme */
+  }
+  
+  .navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .navbar-logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #4a4a4a;
+  }
+  
+  .logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 0.5rem;
+  }
+  
+  .navbar-menu {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .nav-item {
+    text-decoration: none;
+    color: #4a4a4a;
+    font-weight: bold;
+  }
+  
+  .nav-item:hover {
+    color: #d4a5a5;
+  }
+  
+  .navbar-actions .btn-order {
+    background-color: #d4a5a5;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .btn-order:hover {
+    background-color: #b27373;
+  }
+  

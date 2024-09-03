@@ -11,7 +11,7 @@ const About = () => {
             </div>
             <div className="about-section-text-container">
                 <p className="primary-subheading">About</p>
-                <h1 className="primary-heading">Sweetness for your soul! come now</h1>
+                <h1 className="primary-heading">Sweetness for your soul! come now </h1>
                 <p className="primary-text">
                     At SolBake our journey begins with a sweet passion for baking and divine smells that welcome you into a beloved bakery.
                 </p>
